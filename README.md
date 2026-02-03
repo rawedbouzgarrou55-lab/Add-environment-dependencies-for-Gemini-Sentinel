@@ -13,8 +13,11 @@ Gemini Sentinel leverages **Gemini 3 Live API** for real-time visual reasoning. 
 - **UI:** React.js
 
 ## 📸 Media
-![App Interface](./assets/app-interface.png) 
-*(ارفع صورتك في مجلد assets وغير الاسم هنا)*
+![![2](https://github.com/user-attachments/assets/15e982a0-c491-4079-825b-1e654408e279)
+](./assets/app-interface.png) ![2](https://github.com/user-attachments/assets/dc41f75c-d751-4af6-b891-08e5e5ade18d)
+
+*![Uploading 2.jpg…]()
+ا)*
 
 ## 💡 How to Run
 1. Clone the repo: `git clone https://github.com/USERNAME/Gemini-Sentinel.git`
